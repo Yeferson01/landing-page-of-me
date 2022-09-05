@@ -4,7 +4,7 @@
   "description": "Landing Page and API connection",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d src"
+    "deploy": "gh-pages -d ./src"
   },
   "repository": {
     "type": "git",
